@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Perpetual - Your Guide to Finance and Insurance</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h1 {
+      color: #333;
+      font-size: 32px;
+      margin-bottom: 20px;
+    }
+    p {
+      color: #666;
+      font-size: 16px;
+      line-height: 1.5;
+    }
+    .header {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    .main-content {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    .section {
+      margin-bottom: 40px;
+    }
+    .section h2 {
+      color: #333;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    .section p {
+      margin-bottom: 10px;
+    }
+    .section .quote {
+      font-style: italic;
+      margin-top: 10px;
+    }
+    .footer {
+      text-align: center;
+      color: #999;
+      font-size: 14px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>Perpetual</h1>
+    <p>Your Guide to Finance and Insurance</p>
+  </div>
+
+  <div class="main-content">
+    <div class="section">
+      <h2>Welcome to Perpetual!</h2>
+      <p>Perpetual is your go-to resource for all things related to finance and insurance. Whether you're a beginner looking to learn the basics or a seasoned professional seeking expert advice, we've got you covered.</p>
+    </div>
+
+    <div class="section">
+      <h2>Articles and Guides</h2>
+      <p>Explore our collection of informative articles and comprehensive guides that cover a wide range of finance and insurance topics. From understanding investment strategies to choosing the right insurance policies, we aim to provide you with valuable insights and actionable tips.</p>
+    </div>
+
+    <div class="section">
+      <h2>Stay Informed and Make Informed Decisions</h2>
+      <p>Financial markets and insurance industry can be complex and ever-changing. At Perpetual, we strive to keep you updated with the latest news, trends, and regulatory changes. Our goal is to empower you to make informed decisions when it comes to managing your finances and protecting your assets.</p>
+      <p class="quote">"Knowledge is power. Information is liberating." - Kofi Annan</p>
+    </div>
+
+    <div class="section">
+      <h2>Connect with Us</h2>
+      <p>Join our community and engage in discussions with fellow finance and insurance enthusiasts. Follow us on social media and subscribe to our newsletter to receive regular updates and exclusive content.</p>
+    </div>
+  </div>
+
+  <div class="footer">
+    <p>&copy; 2023 Perpetual. All rights reserved.</p>
+  </div>
+</body>
+</html>
